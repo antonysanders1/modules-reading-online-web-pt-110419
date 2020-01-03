@@ -1,4 +1,4 @@
-module validates_presence_of
+module Dance 
   def twirl
     "I'm twirling!"
   end
